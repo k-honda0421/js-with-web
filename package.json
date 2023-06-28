@@ -1,0 +1,23 @@
+{
+  "name": "js-with-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k-honda0421/js-with-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k-honda0421/js-with-web/issues"
+  },
+  "homepage": "https://github.com/k-honda0421/js-with-web#readme",
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "uid-safe": "^2.1.5"
+  }
+}
